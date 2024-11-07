@@ -1,0 +1,17 @@
+/build
+cmakedeps_macros.cmake
+CMakePresets.json
+conan_toolchain.cmake
+conanbuild.sh
+conanbuildenv-release-x86_64.sh
+conandeps_legacy.cmake
+conanrun.sh
+conanrunenv-release-x86_64.sh
+deactivate_conanbuild.sh
+deactivate_conanrun.sh
+pybind11-config.cmake
+pybind11-config-version.cmake
+pybind11-release-x86_64-data.cmake
+pybind11-Target-release.cmake
+pybind11Targets.cmake
+signs.cpython-310-x86_64-linux-gnu.so
